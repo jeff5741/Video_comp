@@ -1,0 +1,158 @@
+
+.page-body {
+    background-color: #f0fdf4;
+    color: #374151;
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .page-header {
+    background-color: #047857;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+  }
+  
+  .page-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .page-subtitle {
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+  }
+  
+
+  .spotlight {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 2.5rem 1rem;
+  }
+  
+  .spotlight-img {
+    margin: 0 auto 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    height: auto;
+  }
+  
+  .section-title {
+    font-size: 1.75rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  
+  .section-text {
+    color: #4b5563;
+  }
+
+  .themes-section {
+    background: #ffffff;
+    padding: 3rem 1rem;
+  }
+  
+  .themes-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .section-heading {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+  }
+  
+  .themes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 1.5rem;
+  }
+  
+  .theme-card {
+    background-color: #dcfce7;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .theme-card h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+  
+
+  .rules-section {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2.5rem 1rem;
+  }
+  
+  .rules-list {
+    list-style: disc;
+    margin-left: 1.5rem;
+    line-height: 1.7;
+  }
+  
+
+  .criteria-section {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2.5rem 1rem;
+  }
+  
+  .criteria-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .criteria-table th {
+    background-color: #047857;
+    color: white;
+    padding: 0.75rem;
+    text-align: left;
+  }
+  
+  .criteria-table td {
+    padding: 0.75rem;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  
+  .criteria-table tr:nth-child(even) {
+    background-color: #f0fdf4;
+  }
+  
+
+  .faq-section {
+    background-color: #f0fdf4;
+    padding: 2.5rem 1rem;
+    text-align: center; 
+  }
+  
+  .faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .faq-container h3 {
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+  }
+  
+
+  .page-footer {
+    background-color: #047857;
+    color: white;
+    text-align: center;
+    padding: 1.5rem 0;
+    margin-top: 2rem;
+  }
+  
+  .page-footer a {
+    color: white;
+    text-decoration: underline;
+  }
+  
